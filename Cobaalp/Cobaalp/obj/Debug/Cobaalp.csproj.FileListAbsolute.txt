@@ -1,0 +1,11 @@
+C:\Users\Olan\source\repos\Cobaalp\Cobaalp\bin\Debug\Cobaalp.exe.config
+C:\Users\Olan\source\repos\Cobaalp\Cobaalp\bin\Debug\Cobaalp.exe
+C:\Users\Olan\source\repos\Cobaalp\Cobaalp\bin\Debug\Cobaalp.pdb
+C:\Users\Olan\source\repos\Cobaalp\Cobaalp\obj\Debug\Cobaalp.csproj.AssemblyReference.cache
+C:\Users\Olan\source\repos\Cobaalp\Cobaalp\obj\Debug\Cobaalp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Olan\source\repos\Cobaalp\Cobaalp\obj\Debug\Cobaalp.Form1.resources
+C:\Users\Olan\source\repos\Cobaalp\Cobaalp\obj\Debug\Cobaalp.Properties.Resources.resources
+C:\Users\Olan\source\repos\Cobaalp\Cobaalp\obj\Debug\Cobaalp.csproj.GenerateResource.cache
+C:\Users\Olan\source\repos\Cobaalp\Cobaalp\obj\Debug\Cobaalp.csproj.CoreCompileInputs.cache
+C:\Users\Olan\source\repos\Cobaalp\Cobaalp\obj\Debug\Cobaalp.exe
+C:\Users\Olan\source\repos\Cobaalp\Cobaalp\obj\Debug\Cobaalp.pdb
